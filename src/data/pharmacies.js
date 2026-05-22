@@ -1,0 +1,32 @@
+export const pharmacies = [
+  {
+    id: 1,
+    name: 'Dori-Darmon 1',
+    address: 'Chilonzor tumani, 1-mavze',
+    phone: '+998 71 123 45 67',
+    hours: '08:00 - 22:00',
+    lat: 41.2995,
+    lng: 69.2401,
+    rating: 4.5,
+  },
+  {
+    id: 2,
+    name: 'Al-Farabi',
+    address: 'Yunusobod tumani, 5-mavze',
+    phone: '+998 71 234 56 78',
+    hours: '24/7',
+    lat: 41.3367,
+    lng: 69.2867,
+    rating: 4.8,
+  },
+  {
+    id: 3,
+    name: 'Shifo Plus',
+    address: 'Mirzo Ulug\'bek tumani, 12-mavze',
+    phone: '+998 71 345 67 89',
+    hours: '09:00 - 21:00',
+    lat: 41.3193,
+    lng: 69.3121,
+    rating: 4.2,
+  },
+]
